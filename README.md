@@ -2,7 +2,7 @@
 
 ## mapper.py and reducer.py codes can be found in codes folder
 
-## screenshots of bucket creation, moving files to HDFS and running mapper and reducer on GCP can be found in screenshots folder
+## screenshots of major steps performed on GCP can be found in screenshots folder
 ### created bucket:
 
 ![bucket](https://github.com/ELizXiong/14848HW4/blob/main/screenshots/dataproc_bucket.png)

@@ -20,4 +20,5 @@
 ![output](https://github.com/ELizXiong/14848HW4/blob/main/screenshots/outputs.png)
 
 ## full output (original from hadoop fs -getmerge) and sorted output can be found in outputs folder:
+### yearMonthDay and the maximum temperature for that day:
 https://github.com/ELizXiong/14848HW4/blob/main/outputs/sorted_temperature_results 
